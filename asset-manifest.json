@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Namegram/static/css/main.d23d04b0.css",
+    "main.js": "/Namegram/static/js/main.e92e5da7.js",
+    "static/js/787.2c73b46b.chunk.js": "/Namegram/static/js/787.2c73b46b.chunk.js",
+    "index.html": "/Namegram/index.html",
+    "main.d23d04b0.css.map": "/Namegram/static/css/main.d23d04b0.css.map",
+    "main.e92e5da7.js.map": "/Namegram/static/js/main.e92e5da7.js.map",
+    "787.2c73b46b.chunk.js.map": "/Namegram/static/js/787.2c73b46b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23d04b0.css",
+    "static/js/main.e92e5da7.js"
+  ]
+}
